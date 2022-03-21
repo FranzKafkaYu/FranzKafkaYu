@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything you want If I know
 - 📫 How to reach me: TG:@CoderfanBaby95
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Reading,Codeing
+- ⚡ Fun fact: Reading,Coding
 - 💬 Be free to ask me about anything [here](https://github.com/FranzKafkaYu/FranzKafkaYu/issues).
 ## ⚡ Technologies
 
