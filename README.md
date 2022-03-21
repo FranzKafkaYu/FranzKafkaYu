@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 <img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FranzKafkaYu&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="light-city's github stats"/>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranzKafkaYu&bg_color=071A2C&text_color=FFFFFF" alt="light-city's top langs"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranzKafkaYu&theme=cobalt2&show_icons=true)
+<p align='left'>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranzKafkaYu&bg_color=071A2C&line_height=20&text_color=FFFFFF" alt="light-city's top langs"/>
 </p>
+
 
 ## 🌎 Find me
 - wechat Official Account: search **语如鲸落**📹 ✍🏾
