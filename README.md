@@ -45,6 +45,9 @@ Here are some ideas to get you started:
 ## 🌎 Find me
 - wechat Official Account: search **语如鲸落**📹 ✍🏾
 - blog: click [FranzKafkaBlog](https://coderfan.net/)🏓
+## 🚀 Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 🌎 Visitors
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
