@@ -9,12 +9,12 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Android Vedio
 - 🌱 I’m currently learning Go,Shell and Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with 
+- 👯 I’m looking to collaborate on Telegram and Github
+- 🤔 I’m looking for help with Making Money
 - 💬 Ask me about anything you want If I know
-- 📫 How to reach me: 
+- 📫 How to reach me: TG:@CoderfanBaby95
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Reading,Codeing
 - 💬 Be free to ask me about anything [here](https://github.com/FranzKafkaYu/FranzKafkaYu/issues).
 ## ⚡ Technologies
 
