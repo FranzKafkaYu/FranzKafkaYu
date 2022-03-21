@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Telegram and Github
 - 🤔 I’m looking for help with Making Money
 - 💬 Ask me about anything you want If I know
-- 📫 How to reach me: TG:@CoderfanBaby95
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Reading,Coding
+- 📫 How to reach me: TG-https://t.me/CoderfanBaby95
+- 😄 Pronouns: Nothing
+- ⚡ Fun fact: Reading,Coding,Music
 - 💬 Be free to ask me about anything [here](https://github.com/FranzKafkaYu/FranzKafkaYu/issues).
 ## ⚡ Platforms
 
