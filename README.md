@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 - blog: click [FranzKafkaBlog](https://coderfan.net/)🏓
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+- [Android系统rc启动文件解析](https://coderfan.net/rc-init-files-in-android-system.html?utm_source=rss&utm_medium=rss&utm_campaign=rc-init-files-in-android-system)
+- [Android与Linux系统中线程/进程优先级设定](https://coderfan.net/android-or-linux-progress-threads-priority-set.html?utm_source=rss&utm_medium=rss&utm_campaign=android-or-linux-progress-threads-priority-set)
+- [Android Makefile编写](https://coderfan.net/android-makefile-compose.html?utm_source=rss&utm_medium=rss&utm_campaign=android-makefile-compose)
+- [AndroidCamera详解一：Camera2整体架构介绍](https://coderfan.net/android-camera2-architecture-analysis.html?utm_source=rss&utm_medium=rss&utm_campaign=android-camera2-architecture-analysis)
+- [Android Native层（C++）内存泄露诊断](https://coderfan.net/android-native-memory-leak-debug.html?utm_source=rss&utm_medium=rss&utm_campaign=android-native-memory-leak-debug)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌎 Visitors
