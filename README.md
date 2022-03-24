@@ -55,4 +55,5 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌎 Visitors
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+
