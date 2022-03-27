@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 - blog: click [FranzKafkaBlog](https://coderfan.net/)🏓
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux系统调用epoll与select使用详解](https://coderfan.net/epoll-and-select-usage-in-linux-system.html?utm_source=rss&utm_medium=rss&utm_campaign=epoll-and-select-usage-in-linux-system)
 - [一文教你如何做出好看又帅气的GitHub主页](https://coderfan.net/how-to-make-your-own-beautiful-github-overview.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-your-own-beautiful-github-overview)
 - [Android系统rc启动文件解析](https://coderfan.net/rc-init-files-in-android-system.html?utm_source=rss&utm_medium=rss&utm_campaign=rc-init-files-in-android-system)
 - [Android与Linux系统中线程/进程优先级设定](https://coderfan.net/android-or-linux-progress-threads-priority-set.html?utm_source=rss&utm_medium=rss&utm_campaign=android-or-linux-progress-threads-priority-set)
 - [Android Makefile编写](https://coderfan.net/android-makefile-compose.html?utm_source=rss&utm_medium=rss&utm_campaign=android-makefile-compose)
-- [AndroidCamera详解一：Camera2整体架构介绍](https://coderfan.net/android-camera2-architecture-analysis.html?utm_source=rss&utm_medium=rss&utm_campaign=android-camera2-architecture-analysis)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌎 Visitors
