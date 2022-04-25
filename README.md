@@ -7,15 +7,7 @@ Here are some ideas to get you started:
 
 
 -->
-- 🔭 I’m currently working on Android/Linux Platform
-- 🌱 I’m currently learning Go,Shell and Python
-- 👯 I’m looking to collaborate on Telegram and Github
-- 🤔 I’m looking for help with Making Money
-- 💬 Ask me about anything you want If I know
-- 📫 How to reach me: TG-https://t.me/CoderfanBaby95
-- 😄 Pronouns: Nothing
-- ⚡ Fun fact: Reading,Coding,Music
-- 💬 Be free to ask me about anything [here](https://github.com/FranzKafkaYu/FranzKafkaYu/issues).
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 ## ⚡ Platforms
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
