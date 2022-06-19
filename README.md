@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 - blog: click [FranzKafkaBlog](https://coderfan.net/)🏓
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Vmware+Ubantu20+Cuttlefish模拟运行Android12](https://coderfan.net/vmwareubantu20cuttlefish%e6%a8%a1%e6%8b%9f%e8%bf%90%e8%a1%8candroid12.html?utm_source=rss&utm_medium=rss&utm_campaign=vmwareubantu20cuttlefish%25e6%25a8%25a1%25e6%258b%259f%25e8%25bf%2590%25e8%25a1%258candroid12)
 - [VPS选购指南及个人经验分享](https://coderfan.net/vps-purchase-instructions-and-experience-sharing.html?utm_source=rss&utm_medium=rss&utm_campaign=vps-purchase-instructions-and-experience-sharing)
 - [Acme申请SSL证书实践](https://coderfan.net/how-to-use-acme-to-issue-ssl-certifiates.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-acme-to-issue-ssl-certifiates)
 - [Golang编译优化之静态链接](https://coderfan.net/optimization-golang-compilation-with-statically-linked.html?utm_source=rss&utm_medium=rss&utm_campaign=optimization-golang-compilation-with-statically-linked)
 - [X-UI面板进阶使用：更快、更安全、更稳定](https://coderfan.net/x-ui-usage-enhancment-for-better-enhancement.html?utm_source=rss&utm_medium=rss&utm_campaign=x-ui-usage-enhancment-for-better-enhancement)
-- [Linux系统调用epoll与select使用详解](https://coderfan.net/epoll-and-select-usage-in-linux-system.html?utm_source=rss&utm_medium=rss&utm_campaign=epoll-and-select-usage-in-linux-system)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌎 Visitors
