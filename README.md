@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - blog: click [FranzKafkaBlog](https://coderfan.net/)🏓
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Vmware+Ubantu20+Cuttlefish模拟运行Android12](https://coderfan.net/vmwareubantu20cuttlefish%e6%a8%a1%e6%8b%9f%e8%bf%90%e8%a1%8candroid12.html?utm_source=rss&utm_medium=rss&utm_campaign=vmwareubantu20cuttlefish%25e6%25a8%25a1%25e6%258b%259f%25e8%25bf%2590%25e8%25a1%258candroid12)
+- [Vmware+Ubuntu20+Cuttlefish模拟运行Android12](https://coderfan.net/vmware-ubuntu20-cuttlefish-run-android12.html?utm_source=rss&utm_medium=rss&utm_campaign=vmware-ubuntu20-cuttlefish-run-android12)
 - [VPS选购指南及个人经验分享](https://coderfan.net/vps-purchase-instructions-and-experience-sharing.html?utm_source=rss&utm_medium=rss&utm_campaign=vps-purchase-instructions-and-experience-sharing)
 - [Acme申请SSL证书实践](https://coderfan.net/how-to-use-acme-to-issue-ssl-certifiates.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-acme-to-issue-ssl-certifiates)
 - [Golang编译优化之静态链接](https://coderfan.net/optimization-golang-compilation-with-statically-linked.html?utm_source=rss&utm_medium=rss&utm_campaign=optimization-golang-compilation-with-statically-linked)
