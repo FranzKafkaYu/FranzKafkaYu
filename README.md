@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 - blog: click [FranzKafkaBlog](https://coderfan.net/)🏓
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [安卓源码编译流程记录](https://coderfan.net/android-compile-progress-document.html?utm_source=rss&utm_medium=rss&utm_campaign=android-compile-progress-document)
 - [Vmware+Ubuntu20+Cuttlefish模拟运行Android12](https://coderfan.net/vmware-ubuntu20-cuttlefish-run-android12.html?utm_source=rss&utm_medium=rss&utm_campaign=vmware-ubuntu20-cuttlefish-run-android12)
 - [VPS选购指南及个人经验分享](https://coderfan.net/vps-purchase-instructions-and-experience-sharing.html?utm_source=rss&utm_medium=rss&utm_campaign=vps-purchase-instructions-and-experience-sharing)
 - [Acme申请SSL证书实践](https://coderfan.net/how-to-use-acme-to-issue-ssl-certifiates.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-acme-to-issue-ssl-certifiates)
 - [Golang编译优化之静态链接](https://coderfan.net/optimization-golang-compilation-with-statically-linked.html?utm_source=rss&utm_medium=rss&utm_campaign=optimization-golang-compilation-with-statically-linked)
-- [X-UI面板进阶使用：更快、更安全、更稳定](https://coderfan.net/x-ui-usage-enhancment-for-better-enhancement.html?utm_source=rss&utm_medium=rss&utm_campaign=x-ui-usage-enhancment-for-better-enhancement)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌎 Visitors
