@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 - blog: click [FranzKafkaBlog](https://coderfan.net/)🏓
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Android编译之bp文件编写](https://coderfan.net/how-to-compose-blueprint-file-to-compile-module-in-android.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-compose-blueprint-file-to-compile-module-in-android)
 - [使用obfuscator对前端JS代码加密混淆](https://coderfan.net/how-to-use-javascript-obfuscator-to-confuse-our-javascript-code.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-javascript-obfuscator-to-confuse-our-javascript-code)
 - [安卓源码编译流程记录](https://coderfan.net/android-compile-progress-document.html?utm_source=rss&utm_medium=rss&utm_campaign=android-compile-progress-document)
 - [Vmware+Ubuntu20+Cuttlefish模拟运行Android12](https://coderfan.net/vmware-ubuntu20-cuttlefish-run-android12.html?utm_source=rss&utm_medium=rss&utm_campaign=vmware-ubuntu20-cuttlefish-run-android12)
 - [VPS选购指南及个人经验分享](https://coderfan.net/vps-purchase-instructions-and-experience-sharing.html?utm_source=rss&utm_medium=rss&utm_campaign=vps-purchase-instructions-and-experience-sharing)
-- [Acme申请SSL证书实践](https://coderfan.net/how-to-use-acme-to-issue-ssl-certifiates.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-acme-to-issue-ssl-certifiates)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌎 Visitors
