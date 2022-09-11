@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 - blog: click [FranzKafkaBlog](https://coderfan.net/)🏓
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SSH工具SecureCRT使用分享](https://coderfan.net/ssh-client-securecrt-usage-sharing.html?utm_source=rss&utm_medium=rss&utm_campaign=ssh-client-securecrt-usage-sharing)
 - [Android APK文件分析](https://coderfan.net/android-apk-analyze.html?utm_source=rss&utm_medium=rss&utm_campaign=android-apk-analyze)
 - [Ubuntu安装Samba实现与Win端文件共享](https://coderfan.net/install-samba-in-ubuntu-to-for-sharing-files-and-directories-with-windows.html?utm_source=rss&utm_medium=rss&utm_campaign=install-samba-in-ubuntu-to-for-sharing-files-and-directories-with-windows)
 - [Linux Signal信号处理：信号发送与捕获](https://coderfan.net/linux-signal-send-and-catch-handle.html?utm_source=rss&utm_medium=rss&utm_campaign=linux-signal-send-and-catch-handle)
 - [Android编译之bp文件编写](https://coderfan.net/how-to-compose-blueprint-file-to-compile-module-in-android.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-compose-blueprint-file-to-compile-module-in-android)
-- [使用obfuscator对前端JS代码加密混淆](https://coderfan.net/how-to-use-javascript-obfuscator-to-confuse-our-javascript-code.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-javascript-obfuscator-to-confuse-our-javascript-code)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌎 Visitors
