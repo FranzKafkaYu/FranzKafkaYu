@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 - blog: click [FranzKafkaBlog](https://coderfan.net/)🏓
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [廉价服务器推荐-CloudCone](https://coderfan.net/budget-clouds-vps-recommend-cloudcone.html?utm_source=rss&utm_medium=rss&utm_campaign=budget-clouds-vps-recommend-cloudcone)
 - [SSH工具SecureCRT使用分享](https://coderfan.net/ssh-client-securecrt-usage-sharing.html?utm_source=rss&utm_medium=rss&utm_campaign=ssh-client-securecrt-usage-sharing)
 - [Android APK文件分析](https://coderfan.net/android-apk-analyze.html?utm_source=rss&utm_medium=rss&utm_campaign=android-apk-analyze)
 - [Ubuntu安装Samba实现与Win端文件共享](https://coderfan.net/install-samba-in-ubuntu-to-for-sharing-files-and-directories-with-windows.html?utm_source=rss&utm_medium=rss&utm_campaign=install-samba-in-ubuntu-to-for-sharing-files-and-directories-with-windows)
 - [Linux Signal信号处理：信号发送与捕获](https://coderfan.net/linux-signal-send-and-catch-handle.html?utm_source=rss&utm_medium=rss&utm_campaign=linux-signal-send-and-catch-handle)
-- [Android编译之bp文件编写](https://coderfan.net/how-to-compose-blueprint-file-to-compile-module-in-android.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-compose-blueprint-file-to-compile-module-in-android)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌎 Visitors
