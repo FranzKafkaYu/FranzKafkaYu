@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 - blog: click [FranzKafkaBlog](https://coderfan.net/)🏓
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [搬瓦工CN2GIA服务器推荐](https://coderfan.net/bandwagonhost-cn2-gia-vps.html?utm_source=rss&utm_medium=rss&utm_campaign=bandwagonhost-cn2-gia-vps)
 - [关于Android系统模拟运行方案杂谈](https://coderfan.net/how-to-emulate-android-device.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-emulate-android-device)
 - [廉价服务器推荐-CloudCone](https://coderfan.net/budget-clouds-vps-recommend-cloudcone.html?utm_source=rss&utm_medium=rss&utm_campaign=budget-clouds-vps-recommend-cloudcone)
 - [SSH工具SecureCRT使用分享](https://coderfan.net/ssh-client-securecrt-usage-sharing.html?utm_source=rss&utm_medium=rss&utm_campaign=ssh-client-securecrt-usage-sharing)
 - [Android APK文件分析](https://coderfan.net/android-apk-analyze.html?utm_source=rss&utm_medium=rss&utm_campaign=android-apk-analyze)
-- [Ubuntu安装Samba实现与Win端文件共享](https://coderfan.net/install-samba-in-ubuntu-to-for-sharing-files-and-directories-with-windows.html?utm_source=rss&utm_medium=rss&utm_campaign=install-samba-in-ubuntu-to-for-sharing-files-and-directories-with-windows)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌎 Visitors
