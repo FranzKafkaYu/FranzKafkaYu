@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=FranzKafkaYu&theme=cobalt2&show_icons=true)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FranzKafkaYu&show_icons=true&theme=tokyonight)
 <p align='left'>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranzKafkaYu&bg_color=071A2C&line_height=20&text_color=FFFFFF" alt="light-city's top langs"/>
+  <img align="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FranzKafkaYu&bg_color=071A2C&line_height=20&text_color=FFFFFF" alt="light-city's top langs"/>
 </p>
 
 
