@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 
 
 ## 🌎 Find me
-- wechat Official Account: search **语如鲸落**📹 ✍🏾
-- blog: click [FranzKafkaBlog](https://coderfan.net/)🏓  
-- email:<a href="mailto:loveme@duck.com">loveme@duck.com</a>:mailbox:  
+- wechat Official Account: search **语如鲸落**✍🏾
+- blog: click [FranzKafkaBlog](https://coderfan.net/):memo:    
+- email:<a href="mailto:loveme@duck.com">loveme@duck.com</a>:e-mail:
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Android Native使用libyuv实现Camera数据格式转换](https://coderfan.net/android-native-use-libyuv-to-convert-formats.html?utm_source=rss&utm_medium=rss&utm_campaign=android-native-use-libyuv-to-convert-formats)
