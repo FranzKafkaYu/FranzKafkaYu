@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 - email:<a href="mailto:loveme@duck.com">loveme@duck.com</a>:e-mail:
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Android 12中使用Google Protobuf](https://coderfan.net/how-to-use-google-protobuf-in-android12.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-google-protobuf-in-android12)
 - [Iptables使用记录](https://coderfan.net/iptables-usage.html?utm_source=rss&utm_medium=rss&utm_campaign=iptables-usage)
 - [Android12系统环境变量设置](https://coderfan.net/android12-environment-variables-usage.html?utm_source=rss&utm_medium=rss&utm_campaign=android12-environment-variables-usage)
 - [Android系统对C/C++ STL的支持](https://coderfan.net/stl-support-in-android.html?utm_source=rss&utm_medium=rss&utm_campaign=stl-support-in-android)
 - [Android系统中toybox/busybox使用](https://coderfan.net/using-toybox-in-android.html?utm_source=rss&utm_medium=rss&utm_campaign=using-toybox-in-android)
-- [开源第三方C/C++库移植Android系统](https://coderfan.net/third-party-open-source-library-migrating-to-android.html?utm_source=rss&utm_medium=rss&utm_campaign=third-party-open-source-library-migrating-to-android)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌎 Visitors
