@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 - email:<a href="mailto:loveme@duck.com">loveme@duck.com</a>:e-mail:
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Android SDK Hidden API使用](https://coderfan.net/using-android-sdk-hidden-api.html?utm_source=rss&utm_medium=rss&utm_campaign=using-android-sdk-hidden-api)
 - [Android JNI使用](https://coderfan.net/android-jni-usagge.html?utm_source=rss&utm_medium=rss&utm_campaign=android-jni-usagge)
 - [smcroute解决安卓虚拟机多播路由](https://coderfan.net/using-smcroute-to-address-multicast-communication-for-virtual-android.html?utm_source=rss&utm_medium=rss&utm_campaign=using-smcroute-to-address-multicast-communication-for-virtual-android)
 - [CMake编译系统使用](https://coderfan.net/cmake-build-system-learning.html?utm_source=rss&utm_medium=rss&utm_campaign=cmake-build-system-learning)
 - [马来西亚不限流量服务器-Casbay](https://coderfan.net/unlimited-bandwidth-malaysian-providers-casbay.html?utm_source=rss&utm_medium=rss&utm_campaign=unlimited-bandwidth-malaysian-providers-casbay)
-- [Android 12中使用Google Protobuf](https://coderfan.net/how-to-use-google-protobuf-in-android12.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-google-protobuf-in-android12)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌎 Visitors
