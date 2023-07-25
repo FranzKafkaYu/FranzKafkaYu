@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 - email:<a href="mailto:loveme@duck.com">loveme@duck.com</a>:e-mail:
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Android AIDL使用之Parcelable对象](https://coderfan.net/android-aidl-usage-of-parcelable-variable.html?utm_source=rss&utm_medium=rss&utm_campaign=android-aidl-usage-of-parcelable-variable)
 - [Android AIDL使用概述](https://coderfan.net/android-aidl-usage.html?utm_source=rss&utm_medium=rss&utm_campaign=android-aidl-usage)
 - [Android SDK Hidden API使用](https://coderfan.net/using-android-sdk-hidden-api.html?utm_source=rss&utm_medium=rss&utm_campaign=using-android-sdk-hidden-api)
 - [Android JNI使用](https://coderfan.net/android-jni-usagge.html?utm_source=rss&utm_medium=rss&utm_campaign=android-jni-usagge)
 - [smcroute解决安卓虚拟机多播路由](https://coderfan.net/using-smcroute-to-address-multicast-communication-for-virtual-android.html?utm_source=rss&utm_medium=rss&utm_campaign=using-smcroute-to-address-multicast-communication-for-virtual-android)
-- [CMake编译系统使用](https://coderfan.net/cmake-build-system-learning.html?utm_source=rss&utm_medium=rss&utm_campaign=cmake-build-system-learning)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌎 Visitors
