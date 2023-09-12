@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 - email:<a href="mailto:loveme@duck.com">loveme@duck.com</a>:e-mail:
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Android应用四大组件之服务](https://coderfan.net/android-app-development-service-usage.html?utm_source=rss&utm_medium=rss&utm_campaign=android-app-development-service-usage)
 - [Android Native服务注册流程概述](https://coderfan.net/android-native-service-registeration.html?utm_source=rss&utm_medium=rss&utm_campaign=android-native-service-registeration)
 - [Android AIDL使用之Parcelable对象](https://coderfan.net/android-aidl-usage-of-parcelable-variable.html?utm_source=rss&utm_medium=rss&utm_campaign=android-aidl-usage-of-parcelable-variable)
 - [Android AIDL使用概述](https://coderfan.net/android-aidl-usage.html?utm_source=rss&utm_medium=rss&utm_campaign=android-aidl-usage)
 - [Android SDK Hidden API使用](https://coderfan.net/using-android-sdk-hidden-api.html?utm_source=rss&utm_medium=rss&utm_campaign=using-android-sdk-hidden-api)
-- [Android JNI使用](https://coderfan.net/android-jni-usagge.html?utm_source=rss&utm_medium=rss&utm_campaign=android-jni-usagge)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌎 Visitors
