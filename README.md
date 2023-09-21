@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - email:<a href="mailto:loveme@duck.com">loveme@duck.com</a>:e-mail:
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Android12系统预设系统属性](https://coderfan.net/android12-system-properties.html?utm_source=rss&utm_medium=rss&utm_campaign=android12-system-properties)
+- [Android12系统之系统属性](https://coderfan.net/android12-system-properties.html?utm_source=rss&utm_medium=rss&utm_campaign=android12-system-properties)
 - [Android应用四大组件之服务](https://coderfan.net/android-app-development-service-usage.html?utm_source=rss&utm_medium=rss&utm_campaign=android-app-development-service-usage)
 - [Android Native服务注册流程概述](https://coderfan.net/android-native-service-registeration.html?utm_source=rss&utm_medium=rss&utm_campaign=android-native-service-registeration)
 - [Android AIDL使用之Parcelable对象](https://coderfan.net/android-aidl-usage-of-parcelable-variable.html?utm_source=rss&utm_medium=rss&utm_campaign=android-aidl-usage-of-parcelable-variable)
