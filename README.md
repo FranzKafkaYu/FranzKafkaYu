@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 - email:<a href="mailto:loveme@duck.com">loveme@duck.com</a>:e-mail:
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Android系统ANR浅析](https://coderfan.net/android-system-anr-analysis.html?utm_source=rss&utm_medium=rss&utm_campaign=android-system-anr-analysis)
 - [Android设备adb shell命令行提示符定制修改](https://coderfan.net/android-adb-shell-command-line-prompt-modification.html?utm_source=rss&utm_medium=rss&utm_campaign=android-adb-shell-command-line-prompt-modification)
 - [诡异的Android makefile编译流程控制问题](https://coderfan.net/android-makefile-conditional-control-problem.html?utm_source=rss&utm_medium=rss&utm_campaign=android-makefile-conditional-control-problem)
 - [Android应用四大组件之Activity](https://coderfan.net/android-application-development-activity.html?utm_source=rss&utm_medium=rss&utm_campaign=android-application-development-activity)
 - [Android Automotive之CarService模块裁剪](https://coderfan.net/android-automotive-carservice-module-trimming.html?utm_source=rss&utm_medium=rss&utm_campaign=android-automotive-carservice-module-trimming)
-- [Android ADB工作原理探究](https://coderfan.net/android-adb-working-mechanism.html?utm_source=rss&utm_medium=rss&utm_campaign=android-adb-working-mechanism)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌎 Visitors
