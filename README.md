@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FranzKafkaYu&show_icons=true&theme=tokyonight)  
 
 
-## 🌎 Find me
-- wechat Official Account: search **语如鲸落**✍🏾
-- blog: click [FranzKafkaBlog](https://coderfan.net/):memo:    
-- email:<a href="mailto:loveme@duck.com">loveme@duck.com</a>:e-mail:
+## 🌎 Find me  
+- 邮箱:<a href="mailto:loveme@duck.com">loveme@duck.com</a>:e-mail:
+- 博客: click [FranzKafkaBlog](https://coderfan.net/):memo:    
+- 微信公众号: 搜索 **Xndroid**✍🏾
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Android C/C++开发嵌入汇编代码](https://coderfan.net/android-c-c-plus-inline-assemble.html?utm_source=rss&utm_medium=rss&utm_campaign=android-c-c-plus-inline-assemble)
