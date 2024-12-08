@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 - 微信公众号: 搜索 **Xndroid**✍🏾
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Android TV雷鸟鹏6-24款客制化配置](https://coderfan.net/android-tv-ffalcon-6-2024-customize-diy.html?utm_source=rss&utm_medium=rss&utm_campaign=android-tv-ffalcon-6-2024-customize-diy)
 - [廉价服务器推荐-Racknerd](https://coderfan.net/cheap-server-recomendation-racknerd.html?utm_source=rss&utm_medium=rss&utm_campaign=cheap-server-recomendation-racknerd)
 - [搬瓦工最新优惠套餐MiniBox](https://coderfan.net/bandawagonhost-newest-product-minibox.html?utm_source=rss&utm_medium=rss&utm_campaign=bandawagonhost-newest-product-minibox)
 - [Android系统中通过llama.cpp部署大模型](https://coderfan.net/deploy-llama-cpp-in-android-system.html?utm_source=rss&utm_medium=rss&utm_campaign=deploy-llama-cpp-in-android-system)
 - [Android C/C++开发嵌入汇编代码](https://coderfan.net/android-c-c-plus-inline-assemble.html?utm_source=rss&utm_medium=rss&utm_campaign=android-c-c-plus-inline-assemble)
-- [Android系统ANR浅析](https://coderfan.net/android-system-anr-analysis.html?utm_source=rss&utm_medium=rss&utm_campaign=android-system-anr-analysis)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌎 Visitors
