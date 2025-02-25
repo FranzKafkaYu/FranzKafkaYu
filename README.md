@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 - 微信公众号: 搜索 **Xndroid**✍🏾
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [安卓应用开发之应用签名](https://coderfan.net/android-application-developement-about-signing-apk.html?utm_source=rss&utm_medium=rss&utm_campaign=android-application-developement-about-signing-apk)
 - [记一次su命令无法提权为root的问题](https://coderfan.net/su-command-cant-promote-to-root-user.html?utm_source=rss&utm_medium=rss&utm_campaign=su-command-cant-promote-to-root-user)
 - [Android TV雷鸟鹏6-24款客制化配置](https://coderfan.net/android-tv-ffalcon-6-2024-customize-diy.html?utm_source=rss&utm_medium=rss&utm_campaign=android-tv-ffalcon-6-2024-customize-diy)
 - [廉价服务器推荐-Racknerd](https://coderfan.net/cheap-server-recomendation-racknerd.html?utm_source=rss&utm_medium=rss&utm_campaign=cheap-server-recomendation-racknerd)
 - [搬瓦工最新优惠套餐MiniBox](https://coderfan.net/bandawagonhost-newest-product-minibox.html?utm_source=rss&utm_medium=rss&utm_campaign=bandawagonhost-newest-product-minibox)
-- [Android系统中通过llama.cpp部署大模型](https://coderfan.net/deploy-llama-cpp-in-android-system.html?utm_source=rss&utm_medium=rss&utm_campaign=deploy-llama-cpp-in-android-system)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌎 Visitors
