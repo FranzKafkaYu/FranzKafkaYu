@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 - 微信公众号: 搜索 **Xndroid**✍🏾
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [自建Rustdesk服务全流程](https://blog.coderfan.org/self-host-rustdesk-deployment.html?utm_source=rss&utm_medium=rss&utm_campaign=self-host-rustdesk-deployment)
 - [Android12 Input子系统解析](https://blog.coderfan.org/android12-input-event-dispatch-progress.html?utm_source=rss&utm_medium=rss&utm_campaign=android12-input-event-dispatch-progress)
 - [安卓应用开发如何使用系统Native库](https://blog.coderfan.org/how-android-applications-use-native-libraries.html?utm_source=rss&utm_medium=rss&utm_campaign=how-android-applications-use-native-libraries)
 - [安卓应用开发之应用签名](https://blog.coderfan.org/android-application-developement-about-signing-apk.html?utm_source=rss&utm_medium=rss&utm_campaign=android-application-developement-about-signing-apk)
 - [记一次su命令无法提权为root的问题](https://blog.coderfan.org/su-command-cant-promote-to-root-user.html?utm_source=rss&utm_medium=rss&utm_campaign=su-command-cant-promote-to-root-user)
-- [Android TV雷鸟鹏6-24款客制化配置](https://blog.coderfan.org/android-tv-ffalcon-6-2024-customize-diy.html?utm_source=rss&utm_medium=rss&utm_campaign=android-tv-ffalcon-6-2024-customize-diy)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌎 Visitors
