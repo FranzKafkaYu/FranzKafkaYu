@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 - 微信公众号: 搜索 **Xndroid**✍🏾
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [反编译APK替换中文文案为其他语言](https://blog.coderfan.org/decompile-the-apk-and-replace-the-chinese-text-with-another-language.html?utm_source=rss&utm_medium=rss&utm_campaign=decompile-the-apk-and-replace-the-chinese-text-with-another-language)
 - [Android系统中实现GUI Agent要点解析](https://blog.coderfan.org/gui-agent-to-control-android-system-implemention.html?utm_source=rss&utm_medium=rss&utm_campaign=gui-agent-to-control-android-system-implemention)
 - [自建Rustdesk服务全流程](https://blog.coderfan.org/self-host-rustdesk-deployment.html?utm_source=rss&utm_medium=rss&utm_campaign=self-host-rustdesk-deployment)
 - [Android12 Input子系统解析](https://blog.coderfan.org/android12-input-event-dispatch-progress.html?utm_source=rss&utm_medium=rss&utm_campaign=android12-input-event-dispatch-progress)
 - [安卓应用开发如何使用系统Native库](https://blog.coderfan.org/how-android-applications-use-native-libraries.html?utm_source=rss&utm_medium=rss&utm_campaign=how-android-applications-use-native-libraries)
-- [安卓应用开发之应用签名](https://blog.coderfan.org/android-application-developement-about-signing-apk.html?utm_source=rss&utm_medium=rss&utm_campaign=android-application-developement-about-signing-apk)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌎 Visitors
