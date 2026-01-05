@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 
 ## 🌎 Find me  
 - 邮箱:<a href="mailto:loveme@duck.com">loveme@duck.com</a>:e-mail:
-- 博客: click [FranzKafkaBlog](https://blog.coderfan.org):memo:    
+- 博客: click [FranzKafkaBlog](https://blog.coderfan.org):memo:
+- [![X](https://img.shields.io/badge/X-@franzkafkayu95-black?logo=x&logoColor=white)](https://x.com/franzkafkayu95)
 - 微信公众号: 搜索 **Xndroid**✍🏾
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
