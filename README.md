@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 - 微信公众号: 搜索 **Xndroid**✍🏾
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Github Action中安全配置安卓证书签名](https://blog.coderfan.org/sign-configuration-for-release-android-application-in-github-action.html?utm_source=rss&utm_medium=rss&utm_campaign=sign-configuration-for-release-android-application-in-github-action)
 - [Windows环境下通过WSL虚拟机刷写Jetson AGX Orin](https://blog.coderfan.org/flash-jetson-agx-orin-in-windows-wsl.html?utm_source=rss&utm_medium=rss&utm_campaign=flash-jetson-agx-orin-in-windows-wsl)
 - [Windows11系统配置WSL运行Ubuntu系统](https://blog.coderfan.org/windows11-configure-wsl.html?utm_source=rss&utm_medium=rss&utm_campaign=windows11-configure-wsl)
 - [反编译APK替换中文文案为其他语言](https://blog.coderfan.org/decompile-the-apk-and-replace-the-chinese-text-with-another-language.html?utm_source=rss&utm_medium=rss&utm_campaign=decompile-the-apk-and-replace-the-chinese-text-with-another-language)
 - [Android系统中实现GUI Agent要点解析](https://blog.coderfan.org/gui-agent-to-control-android-system-implemention.html?utm_source=rss&utm_medium=rss&utm_campaign=gui-agent-to-control-android-system-implemention)
-- [自建Rustdesk服务全流程](https://blog.coderfan.org/self-host-rustdesk-deployment.html?utm_source=rss&utm_medium=rss&utm_campaign=self-host-rustdesk-deployment)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌎 Visitors
