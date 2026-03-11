@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 - 微信公众号: 搜索 **Xndroid**✍🏾
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [基于OpenSpec的SDD Vibe Coding实践](https://blog.coderfan.org/%e5%9f%ba%e4%ba%8eopenspec%e7%9a%84sdd-vibe-coding%e5%ae%9e%e8%b7%b5.html?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%259f%25ba%25e4%25ba%258eopenspec%25e7%259a%2584sdd-vibe-coding%25e5%25ae%259e%25e8%25b7%25b5)
 - [Github Action中安全配置安卓证书签名](https://blog.coderfan.org/sign-configuration-for-release-android-application-in-github-action.html?utm_source=rss&utm_medium=rss&utm_campaign=sign-configuration-for-release-android-application-in-github-action)
 - [Windows环境下通过WSL虚拟机刷写Jetson AGX Orin](https://blog.coderfan.org/flash-jetson-agx-orin-in-windows-wsl.html?utm_source=rss&utm_medium=rss&utm_campaign=flash-jetson-agx-orin-in-windows-wsl)
 - [Windows11系统配置WSL运行Ubuntu系统](https://blog.coderfan.org/windows11-configure-wsl.html?utm_source=rss&utm_medium=rss&utm_campaign=windows11-configure-wsl)
 - [反编译APK替换中文文案为其他语言](https://blog.coderfan.org/decompile-the-apk-and-replace-the-chinese-text-with-another-language.html?utm_source=rss&utm_medium=rss&utm_campaign=decompile-the-apk-and-replace-the-chinese-text-with-another-language)
-- [Android系统中实现GUI Agent要点解析](https://blog.coderfan.org/gui-agent-to-control-android-system-implemention.html?utm_source=rss&utm_medium=rss&utm_campaign=gui-agent-to-control-android-system-implemention)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌎 Visitors
